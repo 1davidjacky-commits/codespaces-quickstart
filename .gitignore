@@ -1,0 +1,14 @@
+# Environment secrets
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Rasa trained model artifacts
+models/
+
+# Rasa internal cache
+.rasa/
